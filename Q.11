@@ -1,0 +1,11 @@
+# Create a dictionary representing the population of different cities
+city_population = {
+    "Kathmandu": 1500000,
+    "Mumbai": 20000000,
+    "Hyderabad": 10000000,
+    "New York": 8500000
+}
+city_population
+
+city_population.pop["Hyderabad"]
+city_population
