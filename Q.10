@@ -1,0 +1,11 @@
+# Create a dictionary of fruits and their colors
+fruits_colors = {
+    "apple": "red",
+    "banana": "yellow",
+    "orange": "orange",
+    "grape": "purple"
+}
+fruits_colors
+
+fruits_colors["Mango"]="Yellow"
+fruits_colors
